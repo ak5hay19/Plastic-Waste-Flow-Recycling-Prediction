@@ -45,20 +45,20 @@ This project addresses the critical global issue of plastic waste mismanagement 
 ## How to Run
 
 1.  **Clone the repository**
-    ```bash
+    .
     git clone [https://github.com/ak5hay19/Plastic-Waste-Flow-Recycling-Prediction.git](https://github.com/ak5hay19/Plastic-Waste-Flow-Recycling-Prediction.git)
     cd Plastic-Waste-Flow-Recycling-Prediction
-    ```
+    .
 
 2.  **Install dependencies**
-    ```bash
+    .
     pip install -r requirements.txt
-    ```
+    .
 
 3.  **Run the main analysis script**
-    ```bash
+    .
     python app.py
-    ```
+    .
 
 4.  **View the Dashboard**
     After the script finishes, it will print a clickable link to the main dashboard. You can also open it manually at:
@@ -90,8 +90,5 @@ This project addresses the critical global issue of plastic waste mismanagement 
 
 This project is created for educational purposes as part of the Advanced Data Analytics course at PES University.
 
-## Contact
 
-For questions or collaborations, contact the team members through the university email system.
 
----
